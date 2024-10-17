@@ -1,6 +1,4 @@
 #include "Mercado_Pago_ESP.h"
-// #include <ESP8266HTTPClient.h>
-// #include <HTTPClient.h>
 
 #if defined(ESP8266)
     #include <ESP8266HTTPClient.h>
